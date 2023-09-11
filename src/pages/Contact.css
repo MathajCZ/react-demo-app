@@ -1,0 +1,35 @@
+.contact {
+    width: auto;
+    align-items: center;
+    height: 50%;
+    display: flex;
+}
+
+.contact p {
+    font-size: 30px;
+}
+
+.contactContainer {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    height: 100%;
+    border-radius: 15px;
+    justify-content: center;
+
+}
+
+.contactContainer h1,
+.contactContainer p {
+    margin-left: 5%;
+    color: rgb(255, 156, 0);
+    justify-content: center;
+}
+
+.link {
+    color: rgb(255, 156, 0);
+}
+
+.link:hover {
+    color: rgb(0, 243, 176);
+}

@@ -1,0 +1,35 @@
+.about {
+    width: auto;
+    align-items: center;
+    height: 50%;
+    display: flex;
+}
+
+.about p {
+    font-size: 30px;
+}
+
+.aboutContainer {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    height: 100%;
+    border-radius: 15px;
+    justify-content: center;
+
+}
+
+.aboutContainer h1,
+.aboutContainer p {
+    margin-left: 5%;
+    color: rgb(255, 156, 0);
+    justify-content: center;
+}
+
+.link {
+    color: rgb(255, 156, 0);
+}
+
+.link:hover {
+    color: rgb(0, 243, 176);
+}
